@@ -1,0 +1,14 @@
+.active{
+
+    background-color:#5f2dd6;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-weight: 600;
+    color: beige;
+    border: 1px solid gray;
+    border-color: rgb(250, 243, 250) ;
+    border-radius: 100px;
+    transition: all 200ms;
+}
