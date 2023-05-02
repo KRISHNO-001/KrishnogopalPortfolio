@@ -104,12 +104,12 @@ export const Home = () => {
           <div className='min-h-max w-[96vw] relative flex flex-col rounded-md pb-6 items-center sm:px-2 bg-gray-100'>
             <p className='text-[30px] mt-4 mb-4 flex items-center gap-10'><FaGraduationCap />Education</p>
 
-            <div className='min-w-[2px] top-[80px] absolute min-h-[320px] sm:mr-4 sm:ml-4 bg-blue-600'>
+            <div className='min-w-[2px] mt-4 top-[80px] absolute min-h-[320px] sm:mr-4 sm:ml-4 bg-blue-600'>
 
             </div>
-            <div className='flex flex-col gap-6 items-center min-w-[40%] sm:min-w-[100%]'>
+            <div className='flex flex-col mt-4 gap-6 items-center min-w-[40%] sm:min-w-[100%]'>
               <div className='flex justify-around gap-6 sm:gap-3 self-start
-                 text-[18px] sm:text-[15px]'><IoMdSchool fontSize={30} /><h2>B.Tech<br />in  CSE<br /><span className='text-[12px] sm:text-[10px] text-gray-500 font-semibold text-center leading-3'>NSHM knowledge <br /> Campus , DURGAPUR<br />
+                 text-[20px] sm:text-[15px]'><IoMdSchool fontSize={30} /><h2>B.Tech<br />in  CSE<br /><span className='text-[12px] sm:text-[11px] text-gray-500 font-semibold text-center leading-3'>NSHM knowledge <br /> Campus , DURGAPUR<br />
                   MAKAUT UNIVERSITY,<br/> CGPA - 8.54</span></h2></div>
 
               <div className='flex justify-around gap-6 sm:gap-1 self-end 
